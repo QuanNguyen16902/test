@@ -1,2 +1,6 @@
 New test
+<<<<<<< HEAD
 No update info
+=======
+"Update info" 
+>>>>>>> dev1branch
