@@ -2,6 +2,4 @@ New test
 No update info
 Number2 want update
 New code in here
-new code by dev1
 New code by Dev2
-Dev1
